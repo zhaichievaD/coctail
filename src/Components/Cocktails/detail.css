@@ -1,0 +1,30 @@
+.everything{
+    text-align: center;
+    background: coral;
+    padding: 50px 0;
+}
+.link .dark {
+    padding-right: 50px;
+    text-decoration: none;
+    color: yellow;
+}
+.link .light {
+    padding-right: 50px;
+    text-decoration: none;
+    color: yellow;
+}
+.link .vodka {
+    padding-right: 50px;
+    text-decoration: none;
+    color: yellow;
+}
+.juice{
+    text-decoration: none;
+    color: yellow;
+}
+li{
+    list-style: none;
+}
+
+
+

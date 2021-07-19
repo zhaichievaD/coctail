@@ -1,0 +1,17 @@
+.all{
+    background: coral;
+    padding: 5px 0 ;
+}
+.card{
+    text-align: center;
+}
+.card img{
+    transition: transform 0.5s;
+}
+.card:hover img{
+    transform: scale(1.1);
+}
+.ll{
+    text-decoration: none;
+    color: rebeccapurple;
+}
